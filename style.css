@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+     border: 5px solid bisque;
+ border-radius: 25px;
+ font-family: 'Comfortaa', cursive;
+ font-size: medium;
+ background-color: rgb(255, 212, 226);
+ }
+ 
+ .button{
+     border: outset 2px rgb(1, 189, 214);
+     font-size: 20px;
+     text-align: center;
+     font-family: 'Comfortaa', cursive;
+     border-radius: 15px;
+     color: rgb(0, 0, 0);
+     
+ }
+ 
+ #decor{
+     border:inset 4px plum;
+     border-radius: 100px;
+     margin-left: 100px;
+     margin-right: 100px;
+ 
+ }
+ 
+ hr{
+     color: black;
+ }
